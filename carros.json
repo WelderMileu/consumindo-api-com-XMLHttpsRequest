@@ -1,0 +1,29 @@
+{
+	"cart":[
+		{
+			"nome":"GOL",
+			"marca":"Volkswagem",
+			"cor": "green",
+			"ano": 2010
+		},
+		{
+			"nome":"Uno",
+			"marca":"Fiat",
+			"cor": "grey",
+			"ano":1994
+		},
+		{
+			"nome":"Toru",
+			"marca":"Fiat",
+			"cor": "black",
+			"ano":2019
+		},
+		{
+			"nome":"Camaro",
+			"marca":"Chevrolet",
+			"cor": "yellow",
+			"ano":2020
+		}
+
+	]
+}
