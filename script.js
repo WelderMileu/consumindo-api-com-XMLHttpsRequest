@@ -1,4 +1,5 @@
 (function(){
+	//Seletor
 	const $ = (e) => document.querySelector(e);
 
 	const ajax = new XMLHttpRequest();

@@ -23,6 +23,12 @@
 			"marca":"Chevrolet",
 			"cor": "yellow",
 			"ano":2020
+		},
+		{
+			"nome":"Palio",
+			"marca":"Fiat",
+			"cor": "red",
+			"ano":2010
 		}
 
 	]
